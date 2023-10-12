@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_StackPanel_Demo", "WPF_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_WrapPanel_Demo", "WPF_WrapPanel_Demo\WPF_WrapPanel_Demo.csproj", "{A76E4246-4A1C-4B43-85BD-A9F0594F644C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_UniformGrid_Demo", "WPF_UniformGrid_Demo\WPF_UniformGrid_Demo.csproj", "{7A909A5B-0905-4AFF-BC47-109AC02E588A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_test_demo_001", "WPF_test_demo_001\WPF_test_demo_001.csproj", "{B077AB83-CB75-4464-9B26-F2144D076624}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{A76E4246-4A1C-4B43-85BD-A9F0594F644C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A76E4246-4A1C-4B43-85BD-A9F0594F644C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A76E4246-4A1C-4B43-85BD-A9F0594F644C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A909A5B-0905-4AFF-BC47-109AC02E588A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A909A5B-0905-4AFF-BC47-109AC02E588A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A909A5B-0905-4AFF-BC47-109AC02E588A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A909A5B-0905-4AFF-BC47-109AC02E588A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B077AB83-CB75-4464-9B26-F2144D076624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B077AB83-CB75-4464-9B26-F2144D076624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B077AB83-CB75-4464-9B26-F2144D076624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B077AB83-CB75-4464-9B26-F2144D076624}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
