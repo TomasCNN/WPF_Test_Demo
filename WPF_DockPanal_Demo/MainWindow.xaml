@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <DockPanel LastChildFill="False">
+            <Button DockPanel.Dock="Bottom" Width="100" Height="20" Background="#FF1800"/>
+            <Button DockPanel.Dock="Left" Width="100" Height="20" Background="#FFEE00"/>
+            <Button DockPanel.Dock="Right" Width="100" Height="20" Background="#000EFF"/>
+            <Button DockPanel.Dock="Top" Width="100" Height="20" Background="#006B00"/>
+            <Button DockPanel.Dock="Bottom" Width="100" Height="20" Background="#006AC5"/>
+        </DockPanel>
     </Grid>
 </Window>
