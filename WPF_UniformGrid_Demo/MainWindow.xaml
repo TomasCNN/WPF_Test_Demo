@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPF_UniformGrid_Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_UniformGrid_Demo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <UniformGrid Columns="3" Rows="3">
+            <Button Width="100" Height="40" Background="#FF1800"/>
+            <Button Width="100" Height="40" Background="#FFEE00"/>
+            <Button Width="100" Height="40" Background="#000EFF"/>
+            <Button Width="100" Height="40" Background="#006B00"/>
+            <Button Width="100" Height="40" Background="#006AC5"/>
+            <Button Width="100" Height="40" Background="#656565"/>
+            <Button Width="100" Height="40" Background="#A93030"/>
+            <Button Width="100" Height="40" Background="#16C2DB"/>
+        </UniformGrid>
+    </Grid>
+</Window>
