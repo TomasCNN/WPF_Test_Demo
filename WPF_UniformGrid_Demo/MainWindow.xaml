@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <UniformGrid Rows="3" Columns="3">
+        <UniformGrid Columns="3" Rows="3">
             <Button Width="100" Height="40" Background="#FF1800"/>
             <Button Width="100" Height="40" Background="#FFEE00"/>
             <Button Width="100" Height="40" Background="#000EFF"/>
@@ -16,6 +16,6 @@
             <Button Width="100" Height="40" Background="#656565"/>
             <Button Width="100" Height="40" Background="#A93030"/>
             <Button Width="100" Height="40" Background="#16C2DB"/>
-        </UniformGrid>                  
+        </UniformGrid>
     </Grid>
 </Window>
